@@ -1,0 +1,53 @@
+body {
+  font-family: "Syne Mono", monospace;
+  background-position: center;
+  background-size: cover;
+  background: linear-gradient(to bottom, #ffcc99 0%, #ff5050 100%);
+}
+.heading {
+  width: 100%;
+  margin: 0px;
+  color: black;
+  font-size: 40px !important;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+  text-align: center;
+  margin-bottom: 20px;
+}
+.inst {
+  float: right;
+  display: inline;
+  font-size: 20px;
+  margin-top: 7px;
+}
+.div {
+  width: 100%;
+}
+.i {
+  width: 500px;
+  height: 330px;
+  margin-right: 200px;
+}
+h4 {
+  line-height: 2;
+  margin-bottom: 0px;
+}
+.modal-dialog {
+  width: 90%;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+.instruction_image {
+  display: inline-block;
+  width: 45%;
+}
+.mh {
+  font-size: 25px;
+}
+video {
+  background: url("game_console.png");
+  background-size: cover;
+  background-position: center;
+}
+img{
+  width: 500px;
+  height: 330px;
+}
